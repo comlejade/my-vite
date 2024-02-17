@@ -1,0 +1,29 @@
+{
+  "name": "simple-vite",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "connect": "^3.7.0",
+    "esbuild": "^0.20.0",
+    "fs-extra": "^11.2.0",
+    "postcss": "^8.4.35",
+    "postcss-import": "^16.0.1",
+    "sirv": "^2.0.4"
+  },
+  "devDependencies": {
+    "@types/connect": "^3.4.38",
+    "@types/fs-extra": "^11.0.4",
+    "@types/node": "^20.11.19",
+    "@types/postcss-import": "^14.0.3",
+    "@types/react": "^18.2.55",
+    "@types/react-dom": "^18.2.19",
+    "typescript": "^5.3.3"
+  }
+}
